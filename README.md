@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I am Asif Wazid</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifwazid" alt="asifwazid" /></a> </p>
 
 You can reach me at **AsifWazid57@gmail.com**
 
